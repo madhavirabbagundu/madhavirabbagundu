@@ -7,7 +7,7 @@
  -->
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on [Apollo247](https://gorgeous-medovik-7420ec.netlify.app/)
+- 🔭 I’m currently working on [Apollo247]( https://gorgeous-medovik-7420ec.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://gorgeous-medovik-7420ec.netlify.app/](https://gorgeous-medovik-7420ec.netlify.app/)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://gorgeous-medovik-7420ec.netlify.app/](https://gorgeous-medovik-7420ec.netlify.app/)
 
-- 👤 Check out My Portfolio at [http://127.0.0.1:5500/index.html]
+- 👤 Check out My Portfolio at [https://chipper-lokum-67dca8.netlify.app/]
 
 
 
