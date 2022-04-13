@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhavi Rabbagundu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.Passionate programmer with a curious mind who loves solving complex and challenging real world problems.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavirabbagundu&label=Profile%20views&color=0e75b6&style=flat" alt="madhavirabbagundu" /> </p>
 
