@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://madhavi-mini-project.netlify.app](https://madhavi-mini-project.netlify.app)
 
-- 👤 Check out My Portfolio at [https:madhaviportfolio.netlify.app]
+- 👤 Check out My Portfolio at [https:madhaviportfolio.netlify.app](madhaviportfolio.netlify.app)
 
 
 
