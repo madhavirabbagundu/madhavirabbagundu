@@ -5,15 +5,11 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavirabbagundu&label=Profile%20views&color=0e75b6&style=flat" alt="madhavirabbagundu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavirabbagundu" alt="madhavirabbagundu" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavirabbagundu" alt="madhavirabbagundu" /></a> </p>
-
- 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://project-madhavi.netlify.app](https://project-madhavi.netlify.app)
 - 👨‍💻 All of my projects are available at [https://dineoutproject.netlify.app/](https://dineoutproject.netlify.app/)
 - 📫 How to reach me **madhavirabbagundu@gmail.com**
-- 📄 Know about my experiences [https://madhavi-mini-project.netlify.app](https://madhavi-mini-project.netlify.app)
 - 👤 Check out My Portfolio at [http://127.0.0.1:5501/](http://127.0.0.1:5501/)
 - 💬 Ask me about **Html,Css, JavaScript,React,Redux**
 
