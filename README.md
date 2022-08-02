@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/madhavi-rabbagundu-191225231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhavirabbagundu" height="30" width="40" /></a>   
 <a href="mailto:madhavirabbagundu@gmail.com" title="madhavirabbagundu@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="madhavirabbagundu" height="30" width="40" /></a>
 <a href="https://wa.me/916366908401" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="madhavirabbagundu" height="40" width="50" /></a>
-<a href="https://madhavi-portpolio-madhavirabbagundu.vercel.app/"><img align="center" src="https://www.nicepng.com/png/full/154-1545276_portfolio-icon-circle.png" alt="madhavirabbagundu" height="30" width="40" /></a>
+<a href="https://madhavi-portpolio-madhavirabbagundu.vercel.app/" target="blank"><img align="center" src="https://www.nicepng.com/png/full/154-1545276_portfolio-icon-circle.png" alt="madhavirabbagundu" height="30" width="40" /></a>
 </p>   
 
  <h3 align="left">Languages and Tools:</h3>
