@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhavi Rabbagundu</h1>
 <h3 align="center" style=color:"red">A passinate frontend developer from India.Passinate programmer with a curious mind who loves solving complex and challenging real world problems.</h3>
- <img src="https://komarev.com/ghpvc/?username=madhavirabbagundu&label=Profile%20views&color=0e75b6&style=flat" alt="madhavirabbagundu"/> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavirabbagundu" alt="madhavirabbagundu" /> </p>
+ <p align="left">
+ <img src="https://komarev.com/ghpvc/?username=madhavirabbagundu&label=Profile%20views&color=0e75b6&style=flat" alt="madhavirabbagundu"/>
+</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavirabbagundu" alt="madhavirabbagundu"/></p>
 <img align="right" alt="Coding" width="300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://project-madhavi.netlify.app](https://project-madhavi.netlify.app)
