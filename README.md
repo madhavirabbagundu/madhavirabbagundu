@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/madhavi-rabbagundu-191225231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhavirabbagundu" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhavi Rabbagundu&label=Views&color=blue&style=plastic" alt="Madhavi Rabbagundu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhavi Rabbagundu&label=Views&color=blue&style=plastic" alt="Madhavi Rabbagundu" /> </p> -->
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
