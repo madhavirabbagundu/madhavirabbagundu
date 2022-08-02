@@ -19,7 +19,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhavi Rabbagundu&label=Views&color=blue&style=plastic" alt="Madhavi Rabbagundu" /> </p>
 
-![COVERR](https://user-images.githubusercontent.com/55251741/126353432-0b5d8ec4-40bf-486e-bcae-7d0434ba435c.png)
+<p>![COVERR](https://user-images.githubusercontent.com/55251741/126353432-0b5d8ec4-40bf-486e-bcae-7d0434ba435c.png)</p>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
