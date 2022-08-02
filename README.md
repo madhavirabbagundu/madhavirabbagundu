@@ -17,6 +17,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/madhavi-rabbagundu-191225231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhavirabbagundu" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhavi Rabbagundu&label=Views&color=blue&style=plastic" alt="Madhavi Rabbagundu" /> </p>
+
+![COVERR](https://user-images.githubusercontent.com/55251741/126353432-0b5d8ec4-40bf-486e-bcae-7d0434ba435c.png)
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +36,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/data structure algorithm/data structure algorithm.png"></code>
+
 
 
 
