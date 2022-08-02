@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/madhavi-rabbagundu-191225231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhavirabbagundu" height="30" width="40" /></a>
 <a href="https://instagram.com/madhavirabbagundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhavirabbagundu" height="30" width="40"/></a>
- <a href = "https://images.idgesg.net/images/article/2021/01/gmail-reorder-messages-100874665-large.jpg?auto=webp&quality=85,70" style = "width:30px;/></a>
+<!--  <a href = "https://images.idgesg.net/images/article/2021/01/gmail-reorder-messages-100874665-large.jpg?auto=webp&quality=85,70" style = "width:30px;/></a> -->
 </p>
 
  <h3 align="left">Languages and Tools:</h3>
