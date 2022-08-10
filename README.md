@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="200" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
  
-- 👨‍💻 All of my projects are available at [https://dineoutclone-project.netlify.app/](https://dineoutclone-project.netlify.app/)
+- 👨‍💻 All of my projects are available here : [https://dineoutclone-project.netlify.app/](https://dineoutclone-project.netlify.app/)
 - 👨‍💻 All of my projects are available at [https://trivagoclone-project.netlify.app/](https://trivagoclone-project.netlify.app/)
 - 👨‍💻 All of my projects are available at [https://nyka-clone-by-stmps-team.netlify.app//](https://nyka-clone-by-stmps-team.netlify.app//)
 - 👨‍💻 All of my projects are available at [https://project-madhavi.netlify.app](https://project-madhavi.netlify.app)
