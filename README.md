@@ -3,11 +3,12 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavirabbagundu&label=Profile%20views&color=0e75b6&style=flat" alt="madhavirabbagundu"/></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavirabbagundu" alt="madhavirabbagundu"/></p>
-<img align="right" alt="Coding" width="300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<img align="right" alt="Coding" width="200" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
-- 👨‍💻 All of my projects are available at [https://nyka-clone-by-stmps-team.netlify.app//](https://nyka-clone-by-stmps-team.netlify.app//)
+ 
 - 👨‍💻 All of my projects are available at [https://dineoutclone-project.netlify.app/](https://dineoutclone-project.netlify.app/)
 - 👨‍💻 All of my projects are available at [https://trivagoclone-project.netlify.app/](https://trivagoclone-project.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nyka-clone-by-stmps-team.netlify.app//](https://nyka-clone-by-stmps-team.netlify.app//)
 - 👨‍💻 All of my projects are available at [https://project-madhavi.netlify.app](https://project-madhavi.netlify.app)
 - 📫 How to reach me **madhavirabbagundu@gmail.com**
 - 👤 Check out My Portfolio at [https://madhavi-portpolio-madhavirabbagundu.vercel.app/](https://madhavi-portpolio-madhavirabbagundu.vercel.app//)
