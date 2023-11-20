@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://apolloclone.netlify.app/index.html](https://apolloclone.netlify.app/index.html)
 - 👨‍💻 All of my projects are available at [https://trivagoclone-project.netlify.app/](https://trivagoclone-project.netlify.app/)
-- 👨‍💻 All of my projects are available at [https://nyka-clone-by-stmps-team.netlify.app//](https://nyka-clone-by-stmps-team.netlify.app//)
 - 👨‍💻 All of my projects are available at [https://dineoutclone-project.netlify.app/](https://dineoutclone-project.netlify.app/)
 - 📫 How to reach me **madhavirabbagundu@gmail.com**
 - 👤 Check out My Portfolio at [https://madhavi-portpolio-madhavirabbagundu.vercel.app/](https://madhavi-portpolio-madhavirabbagundu.vercel.app//)
