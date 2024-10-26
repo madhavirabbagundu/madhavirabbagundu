@@ -6,8 +6,6 @@
 <img align="right" alt="Coding" width="200" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://apolloclone.netlify.app/index.html](https://apolloclone.netlify.app/index.html)
-- 👨‍💻 All of my projects are available at [https://trivagoclone-project.netlify.app/](https://trivagoclone-project.netlify.app/)
-- 👨‍💻 All of my projects are available at [https://dineoutclone-project.netlify.app/](https://dineoutclone-project.netlify.app/)
 - 📫 How to reach me **madhavirabbagundu@gmail.com**
 - 👤 Check out My Portfolio at [https://madhavi-portpolio-madhavirabbagundu.vercel.app/](https://madhavi-portpolio-madhavirabbagundu.vercel.app//)
 - 💬 Ask me about **Html,Css, JavaScript,React,Redux**
