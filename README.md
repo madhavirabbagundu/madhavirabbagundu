@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="200" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://apolloclone.netlify.app/index.html](https://apolloclone.netlify.app/index.html)
-- 👨‍💻 All of my projects are available at [https://food-receipe-d92b09.netlify.app/52971](https://food-receipe-d92b09.netlify.app/52971)
+- 👨‍💻 All of my projects are available at [https://food-receipe-d92b09.netlify.app/](https://food-receipe-d92b09.netlify.app/)
 
 - 📫 How to reach me **madhavirabbagundu@gmail.com**
   
